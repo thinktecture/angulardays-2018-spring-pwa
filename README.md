@@ -2,7 +2,7 @@
 
 [Angular Days 2018](https://angular-days.de/session/progressive-web-apps-das-web-wird-nativer/), 20. März 2018, 13:30–17:00 Uhr, Holiday Inn München-Unterhaching.
 
-[Christian Liebel](https://twitter.com/chris_liebel), Software Architect, Thinktecture AG, Karlsruhe.
+[Christian Liebel](https://twitter.com/christianliebel), Software Architect, Thinktecture AG, Karlsruhe.
 
 Due to the expected number of participants, we will not be able to have one-on-one mentoring. However, if you like, you can follow the instructor using this repository.
 
