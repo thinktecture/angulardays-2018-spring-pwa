@@ -12,8 +12,7 @@ import { environment } from '../environments/environment';
     AppComponent
   ],
   imports: [
-    BrowserModule,
-    ServiceWorkerModule.register('/ngsw-worker.js', { enabled: environment.production })
+    BrowserModule
   ],
   providers: [],
   bootstrap: [AppComponent]
