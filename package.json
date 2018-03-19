@@ -8,7 +8,8 @@
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "start-prod": "ng build --prod && static -p 4200 ./dist"
   },
   "private": true,
   "dependencies": {
